@@ -16,5 +16,14 @@ https://www.youtube.com/watch?v=T4XQxKkLvoI&list=PL1jY4BuFJn1efO4Sv57kuxMBLt1Thy
 
 **(Ensure you login to to YouTube with right email address to watch the videos)**
 
+### AWS Account Creation
+
+https://www.youtube.com/watch?v=F4jF88UkxV4
+
+https://portal.aws.amazon.com/billing/signup
+
+### DevOps overview sessions
+
+https://www.youtube.com/watch?v=iO8qpPeiph0&list=PLbeIORXauosjypPNHf4YGeEKN3KlSjzOj
 
 
